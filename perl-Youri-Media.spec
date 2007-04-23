@@ -1,7 +1,7 @@
 %define module	Youri-Media
 %define name	perl-%{module}
 %define version 0.2.1
-%define release %mkrel 1
+%define release %mkrel 2
 
 Name:		%{name}
 Version:	%{version}
@@ -19,6 +19,7 @@ BuildRequires:  perl(Youri::Package)
 BuildRequires:  perl(LWP::Simple)
 BuildRequires:  perl(URPM)
 BuildRequires:  perl-version
+Requires:       perl-version
 BuildArch:	    noarch
 BuildRoot:	    %{_tmppath}/%{name}-%{version}
 
