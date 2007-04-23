@@ -16,7 +16,7 @@ Obsoletes:  youri
 Buildrequires:	perl-devel
 %endif
 BuildRequires:  perl(Youri::Package)
-BuildRequires:  perl(LPW::Simple)
+BuildRequires:  perl(LWP::Simple)
 BuildRequires:  perl(URPM)
 BuildRequires:  perl-version
 BuildArch:	    noarch
