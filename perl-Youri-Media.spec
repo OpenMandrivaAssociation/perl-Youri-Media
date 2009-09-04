@@ -1,7 +1,7 @@
 %define module	Youri-Media
 %define name	perl-%{module}
 %define version 0.2.1
-%define release %mkrel 5
+%define release %mkrel 6
 
 Name:		%{name}
 Version:	%{version}
