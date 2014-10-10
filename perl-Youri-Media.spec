@@ -2,7 +2,7 @@
 
 Name:		perl-%{module}
 Version:	0.2.1
-Release:	8
+Release:	9
 Summary:	Abstract media class
 License:	GPL or Artistic
 Group:		Development/Other
