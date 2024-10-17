@@ -7,7 +7,7 @@ Summary:	Abstract media class
 License:	GPL or Artistic
 Group:		Development/Other
 Source:		http://youri.zarb.or/download/%{module}-v%{version}.tar.bz2
-Url:		http://youri.zarb.org
+Url:		https://youri.zarb.org
 BuildRequires:	perl-devel
 BuildRequires:	perl(Youri::Package)
 BuildRequires:	perl(LWP::Simple)
